@@ -32,3 +32,4 @@ C:\Users\HP\Documents\React\SensorPublisher\obj\Debug\net9.0\refint\SensorPublis
 C:\Users\HP\Documents\React\SensorPublisher\obj\Debug\net9.0\SensorPublisher.pdb
 C:\Users\HP\Documents\React\SensorPublisher\obj\Debug\net9.0\SensorPublisher.genruntimeconfig.cache
 C:\Users\HP\Documents\React\SensorPublisher\obj\Debug\net9.0\ref\SensorPublisher.dll
+C:\Users\HP\Documents\React\SensorPublisher\obj\Debug\net9.0\SensorPublisher.sourcelink.json

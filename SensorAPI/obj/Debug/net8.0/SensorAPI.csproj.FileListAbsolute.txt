@@ -137,3 +137,4 @@ C:\Users\HP\Documents\React\SensorAPI\obj\Debug\net8.0\SensorAPI.pdb
 C:\Users\HP\Documents\React\SensorAPI\obj\Debug\net8.0\SensorAPI.genruntimeconfig.cache
 C:\Users\HP\Documents\React\SensorAPI\obj\Debug\net8.0\ref\SensorAPI.dll
 C:\Users\HP\Documents\React\SensorAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\HP\Documents\React\SensorAPI\obj\Debug\net8.0\SensorAPI.sourcelink.json
