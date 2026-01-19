@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SensorAPI\\SensorAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SensorConsumer\\SensorConsumer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SensorPublisher\\SensorPublisher.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
